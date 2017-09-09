@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: College_Management
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: kishore
+Built-By: vimal
 Implementation-Vendor-Id: com.college.management
-Build-Jdk: 1.8.0_141
+Build-Jdk: 1.8.0_111
 Implementation-URL: http://projects.spring.io/spring-boot/College_Mana
  gement/
 Created-By: Maven Integration for Eclipse
